@@ -1,0 +1,9 @@
+[
+  { "name": "bug", "color": "ee3f46" },
+  { "name": "security", "color": "ee3f46" },
+  { "name": "enhancement", "color": "5ebeff" },
+  { "name": "optimization", "color": "5ebeff" },
+  { "name": "chore", "color": "fef2c0" },
+  { "name": "in progress", "color": "fbca04" },
+  { "name": "production", "color": "fad8c7" }
+]
