@@ -1,9 +1,14 @@
 [
+  { "name": "react", "color": "bfd4f2" },
+  { "name": "laravel", "color": "bfd4f2" },
   { "name": "bug", "color": "ee3f46" },
   { "name": "security", "color": "ee3f46" },
+  { "name": "chore", "color": "fef2c0" },
+  { "name": "copy", "color": "ffc274" },
+  { "name": "design", "color": "ffc274" },
+  { "name": "production", "color": "fad8c7" },
   { "name": "enhancement", "color": "5ebeff" },
   { "name": "optimization", "color": "5ebeff" },
-  { "name": "chore", "color": "fef2c0" },
-  { "name": "in progress", "color": "fbca04" },
-  { "name": "production", "color": "fad8c7" }
+  { "name": "feature", "color": "91ca55" },
+  { "name": "in progress", "color": "fbca04" }
 ]
