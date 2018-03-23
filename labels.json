@@ -10,5 +10,6 @@
   { "name": "enhancement", "color": "5ebeff" },
   { "name": "optimization", "color": "5ebeff" },
   { "name": "feature", "color": "91ca55" },
-  { "name": "in progress", "color": "fbca04" }
+  { "name": "in progress", "color": "fbca04" },
+  { "name": "dependencies", "color": "0025ff" }
 ]
