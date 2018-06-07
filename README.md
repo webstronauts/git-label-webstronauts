@@ -5,9 +5,9 @@ Default Github issue labels that are used within our projects. For more informat
 ## Usage
 
 ```
-npx github-label-sync --access-token $GITHUB_ACCESS_TOKEN webstronauts/submit-app
+npx github-label-sync --access-token $GITHUB_ACCESS_TOKEN <repo>
 ```
 
-## License
+## Author(s)
 
-MIT © [The Webstronauts](https://www.webstronauts.co)
+Robin van der Vleuten ([@robinvdvleuten](https://twitter.com/robinvdvleuten)) - [The Webstronauts](https://www.webstronauts.co?utm_source=github&utm_medium=readme&utm_content=docker-laravel)

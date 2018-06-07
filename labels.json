@@ -1,6 +1,7 @@
 [
-  { "name": "react", "color": "bfd4f2" },
   { "name": "laravel", "color": "bfd4f2" },
+  { "name": "rails", "color": "bfd4f2" },
+  { "name": "react", "color": "bfd4f2" },
   { "name": "bug", "color": "ee3f46" },
   { "name": "security", "color": "ee3f46" },
   { "name": "chore", "color": "fef2c0" },
